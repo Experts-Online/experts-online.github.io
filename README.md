@@ -11,7 +11,7 @@ Lis opsyon ak paj nap mete nan sit la.
 - kontak
 
 
-### paj on soudomenn
+### paj ak soudomenn
 
 - Ekip : pwofil manb yo, ak detay siplemantè.
 - blog : poste atik , vèy nouvote elatrye sou teknoloji , defiran moun ka ekri sou lategori yo vle
